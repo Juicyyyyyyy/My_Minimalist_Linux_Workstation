@@ -1,11 +1,8 @@
-## My Linux Productivity Environnement
+## My Minimalist Linux Workstation
 
-I made this repository to facilitate my numerous Linux installations and to easily reproduce my working environment 
-but feel free to take inspiration for your own installation. Take in consideration that I prioritise 
-minimalism and simplicity to focus only my work, on what "matters". Which mean you won't have any fancy, modern,
-"unixporn" stuff here.
-
-// to improve
+I prioritize minimalism and simplicity to stay focused on what truly matters: my work. You won’t find any flashy or 
+modern "unixporn" customizations here—just a clean, efficient setup designed to eliminate distractions and enhance 
+productivity.
 
 ---
 
@@ -108,4 +105,8 @@ website without having to remember them. It saves me a lot of energy trying to r
 You can add a markdown signature with a profile picture like this:
 
 ---
-Add signature
+**Corentin Dupaigne**  
+_Software Engineering student at Epita Paris_  
+[LinkedIn](https://www.linkedin.com/in/corentin-dupaigne-b449a1242/) | [Portfolio](https://corentindupaigne.herokuapp.com)
+---
+
