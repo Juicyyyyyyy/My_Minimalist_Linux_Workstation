@@ -101,8 +101,6 @@ website without having to remember them. It saves me a lot of energy trying to r
 
 ![img_12.png](imgs/img_12.png)
 
-You can add a markdown signature with a profile picture like this:
-
 ---
 **Corentin Dupaigne**  
 _Software Engineering student at Epita Paris_  
