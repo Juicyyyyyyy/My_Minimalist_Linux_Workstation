@@ -90,8 +90,7 @@ thanks to AnkiDroid. Anki uses spaced repetition, a great method to commit infor
 
 ---
 
-- **Xournal++:** A handwriting note-taking app (you need a graphics tablet) that I mainly use for math or mind mapping to
-- organize my thoughts.
+- **Xournal++:** A handwriting note-taking app (you need a graphics tablet) that I mainly use for math or mind mapping to organize my thoughts.
 
 ![img_11.png](imgs/img_11.png)
 
